@@ -120,3 +120,4 @@ This repository draws from various resources, including *Deep Learning* by Ian G
 
 ---
 
+<p align="center">&copy; 2024 Venkata Sri Deepthi SriKotaPeetambaram | Deep Learning Repository</p>
