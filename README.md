@@ -1,7 +1,7 @@
 # Nueral Networks and Deep-Learning
 ![Deep Learning](https://miro.medium.com/v2/resize:fit:1400/0*5s_Qb1Ed53Nc9iLo.gif)
 <h1 align="center">Nueral Networks and Deep-Learning</h1>
-<h3 align="center">Comprehensive guide on Deep Learning principles and research.</h3>
+<h3 align="center">Comprehensive guide on Nueral Networks and Deep-Learning principles and research.</h3>
 
 ---
 # Nueral Networks and Deep-Learning Study Plan
