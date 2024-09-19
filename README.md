@@ -1,10 +1,10 @@
-# Nueral Networks and Deep-Learning
+# Neural Networks and Deep-Learning
 ![Deep Learning](https://miro.medium.com/v2/resize:fit:1400/0*5s_Qb1Ed53Nc9iLo.gif)
-<h1 align="center">Nueral Networks and Deep-Learning</h1>
-<h3 align="center">Comprehensive guide on Nueral Networks and Deep-Learning principles and research.</h3>
+<h1 align="center">Neural Networks and Deep-Learning</h1>
+<h3 align="center">Comprehensive guide on Neural Networks and Deep-Learning principles and research.</h3>
 
 ---
-# Nueral Networks and Deep-Learning Study Plan
+# Neural Networks and Deep-Learning Study Plan
 
 This repository follows a structured study plan for deep learning, combining both theoretical foundations and practical implementations. Below is a list of topics covered, grouped into various sections corresponding to applied math, machine learning basics, practical networks, and deep learning research.
 
@@ -56,7 +56,7 @@ This repository follows a structured study plan for deep learning, combining bot
 15. **CNN Training and Transfer Learning**
 
 ## Projects
-This section contains hands-on projects implementing deep learning concepts. 
+This section contains hands-on projects implementing Neural Networks and Deep-Learning concepts. 
 You can find detailed explanations and code implementations for each project in their respective folders.
 
 ---
