@@ -14,4 +14,7 @@ The notes are organized into individual files for easy navigation. They reflect 
 
 While every effort has been made to ensure the accuracy of the information, these notes are for personal use and may not be exhaustive. Please refer to original sources for authoritative content.
 
+-----
+<p align="center">&copy; 2024 Venkata Sri Deepthi SriKotaPeetambaram | Neural Networks and Deep Learning Repository</p>
+
 
