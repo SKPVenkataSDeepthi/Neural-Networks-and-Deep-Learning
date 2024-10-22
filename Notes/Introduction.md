@@ -30,7 +30,7 @@ But over time, scientists realized that the models they were developing weren’
 * Now, there’s still a challenge when we don’t have that much labeled data (data where we already know the correct answer), so researchers are exploring ways to use large amounts of data that hasn’t been labeled to keep improving the learning process.
 
 # Real-Worls Impact
-* in 2012, deep learning achieved a breakthrough when it won a major competition called ImageNet, where AI systems are tested to see how well they can recognize objects in photos. The winning AI system dramatically reduced the error rate in recognizing objects, and deep learning models have been winning this contest ever since, getting better each year.
+* In 2012, deep learning achieved a breakthrough when it won a major competition called ImageNet, where AI systems are tested to see how well they can recognize objects in photos. The winning AI system dramatically reduced the error rate in recognizing objects, and deep learning models have been winning this contest ever since, getting better each year.
 
 * Deep learning has also revolutionized other areas. In speech recognition, which powers things like voice assistants (e.g., Siri or Alexa), error rates were stuck for years, but deep learning suddenly made the technology much better, cutting errors in half. It also led to amazing results in detecting pedestrians for self-driving cars, recognizing road signs, and even performing tasks better than humans in some areas.
 
