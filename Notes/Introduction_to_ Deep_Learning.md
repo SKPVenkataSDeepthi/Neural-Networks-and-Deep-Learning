@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to Deep Learning
 
 * Deep learning enables the computer to build complex concepts out of simpler concepts
 
