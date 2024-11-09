@@ -4,7 +4,7 @@ This repository contains various code files related to neural networks and deep 
 
 
 ## Installation
-To run the codes in this repository, you need to install the following dependencies:
+To run the codes in this repository, you need to install their dependencies if needed.
 
 Feel free to reach out if you have any questions or want to discuss your own experiences! Happy coding!
 
