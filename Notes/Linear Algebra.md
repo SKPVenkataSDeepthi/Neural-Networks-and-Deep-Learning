@@ -135,6 +135,7 @@ Norms are helpful in many areas of mathematics, physics, and computer science be
 ---
 
 13. Eigen Decomposition:
+
 1. Understanding the Basics of Eigenvalues and Eigenvectors
 Imagine you have a grid or a piece of fabric that can stretch in different directions. Now, let’s say there are some specific directions along which, when you pull or stretch the fabric, it stretches straight in that direction without bending or changing direction. These special directions are like the eigenvectors of that fabric.
 * The eigenvalue tells you how much the fabric stretches along that specific direction. If an eigenvalue is 1, the fabric doesn’t change size along that direction, but if it’s 2, it doubles in size in that direction, and if it’s 0.5, it shrinks to half its original size.
@@ -219,7 +220,7 @@ This makes the Moore-Penrose Pseudoinverse a powerful tool in solving systems of
 - More rows than columns (overdetermined system): The pseudoinverse gives the solution with the minimum error in terms of Euclidean norm.
 ---
 
-17. Trace
+17. Trace:
 The trace of this matrix is the sum of the numbers that sit along the main diagonal of the grid.
 [ 3  2  1 ]
 [ 0  4  5 ]
