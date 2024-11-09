@@ -134,7 +134,7 @@ Norms are helpful in many areas of mathematics, physics, and computer science be
 * Example: Think of a grid of points, and now rotate it. The grid’s structure stays the same, but the points have just moved around, and the distance between them remains unchanged. That’s what an orthogonal matrix does — it keeps distances the same while rotating.
 ---
 
-13. Eigen Decomposition
+13. Eigen Decomposition:
 1. Understanding the Basics of Eigenvalues and Eigenvectors
 Imagine you have a grid or a piece of fabric that can stretch in different directions. Now, let’s say there are some specific directions along which, when you pull or stretch the fabric, it stretches straight in that direction without bending or changing direction. These special directions are like the eigenvectors of that fabric.
 * The eigenvalue tells you how much the fabric stretches along that specific direction. If an eigenvalue is 1, the fabric doesn’t change size along that direction, but if it’s 2, it doubles in size in that direction, and if it’s 0.5, it shrinks to half its original size.
@@ -167,7 +167,7 @@ Imagine a round balloon. When we inflate it, it expands evenly in all directions
 So, eigen decomposition allows us to understand and control the way we’re transforming space, data, or any structure represented by a matrix in a more meaningful way.
 ---
 
-14. Singular value decomposition
+14. Singular value decomposition:
 Singular Value Decomposition (SVD) is a method in linear algebra used to break down a complex matrix (a grid of numbers, if you will) into simpler parts, which helps in understanding the underlying patterns or "directions" in data. It’s widely used in data science, machine learning, and statistics to analyze data and solve complex mathematical problems, especially when exact solutions are hard to find or when the data is incomplete.
 * To break down SVD:
 Think of a Matrix as a Transformation: Imagine a matrix as a tool that can stretch, rotate, or flip a space of data points. The SVD helps us understand how this transformation works by breaking it into three simpler pieces.
@@ -181,7 +181,7 @@ When we apply these components together (U * Σ * V^T), they recreate the origin
 2. It's also helpful for finding patterns in data, such as identifying the main topics in a set of documents.
 ---
 
-15. Moore-Penrose Pseudoinverse
+15. Moore-Penrose Pseudoinverse:
 When we want to "reverse" a matrix, the inverse helps us go back to the original form. However, not all matrices have a clean inverse, especially when they are not square (having the same number of rows and columns) or when they represent equations that are hard to solve precisely.
 * The Moore-Penrose Pseudoinverse is a clever way to "pseudo-reverse" any matrix to find the best possible solution to a system of equations. Here’s how it works:
 1. One Solution (Exact Solution):
@@ -205,7 +205,7 @@ where \( \Sigma^+ \) is derived by:
 
 ---
 
-16. Situations for the Pseudoinverse
+16. Situations for the Pseudoinverse:
 
 The pseudoinverse provides solutions in different scenarios:
 
