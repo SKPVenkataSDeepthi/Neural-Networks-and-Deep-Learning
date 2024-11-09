@@ -12,20 +12,20 @@
 
 5. Matrix Transpose: When you transpose a matrix, you essentially flip it over its diagonal. So, every row becomes a column, and every column becomes a row.
 Before Transpose:
-1 2
-3 4
+[1 2]
+[3 4]
 After Transpose:
-1 3
-2 4
+[1 3]
+[2 4]
 ---
 
 6. Matrix Dot Product: The dot product is when you combine two matrices to get a new single matrix. This process is like merging numbers in a special way.
 Matrix A:
-1 2
-3 4
+[1 2]
+[3 4]
 Matrix B:
-5 6
-7 8
+[5 6]
+[7 8]
 A Dot B(top-left position):
 (1 * 5) + (2 * 7) = 5 + 14 = 19
 ---
@@ -34,14 +34,14 @@ A Dot B(top-left position):
 * Think of an identity matrix as a special kind of grid or table of numbers, much like a bingo card. Imagine a square grid where every spot on the diagonal, running from the top left to the bottom right, has a "1" in it, and all the other spots have a "0."
 * The cool thing about this matrix is that when it interacts with other matrices (think of it like multiplying it with another number grid), it doesn’t change the other matrix. Just like multiplying a number by 1 doesn’t change the number, multiplying a matrix by an identity matrix keeps the original matrix the same.
 Simple Matrix:
-2 3
-4 5 
+[2 3]
+[4 5 ]
 Identity Matrix:
-1 0
-0 1
+[1 0]
+[0 1]
 Multiplying the both we get
-2 3
-4 5
+[2 3]
+[4 5]
 ---
 
 8. Linear System of Equations:
