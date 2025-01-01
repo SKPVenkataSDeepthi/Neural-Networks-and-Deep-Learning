@@ -10,7 +10,7 @@ These notes are intended for personal learning and reference, covering key conce
 
 The notes are organized into individual files for easy navigation. They reflect a combination of theoretical explanations and practical insights, aiming to provide a comprehensive understanding of the topics covered.
 
-## Disclaimer
+## Note
 
 While every effort has been made to ensure the accuracy of the information, these notes are for personal use and may not be exhaustive. Please refer to original sources for authoritative content.
 
